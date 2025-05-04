@@ -66,11 +66,11 @@ layout: default
   {% for post in site.posts %}
     {% if post.layout == "candidato" %}
     <div class="candidate-card">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       {% if post.origin %}
         <div class="post-author">Origen candidatura;<br>{{ post.origin }}</div>
       {% endif %}
-      <a href="{{ post.url }}" style="margin-top: 1rem; color: #4a5fc1; font-weight: bold;">Ver entrevista completa →</a>
+      <a href="{{ post.url | relative_url }}" style="margin-top: 1rem; color: #4a5fc1; font-weight: bold;">Ver entrevista completa →</a>
     </div>
     {% endif %}
   {% endfor %}
