@@ -3,7 +3,7 @@ layout: candidato
 title: Margarita Darlene Rojas Olvera
 origin: poder ejecutivo
 interviewed: true
-tags: ["poder ejecutivo", "poder judicial", "mujer"]
+tags: ["poder ejecutivo, poder judicial", "mujer"]
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
 ---

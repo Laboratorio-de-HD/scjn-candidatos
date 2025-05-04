@@ -3,7 +3,7 @@ layout: candidato
 title: Jaime Salvador García González
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "poder judicial", "hombre"]
+tags: ["poder legislativo, poder judicial", "hombre"]
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
 ---

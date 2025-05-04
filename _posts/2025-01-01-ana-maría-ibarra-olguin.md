@@ -3,7 +3,7 @@ layout: candidato
 title: Ana María Ibarra Olguin
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "poder ejecutivo", "mujer"]
+tags: ["poder judicial, poder ejecutivo", "mujer"]
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
 ---

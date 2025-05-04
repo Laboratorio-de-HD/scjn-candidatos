@@ -3,7 +3,7 @@ layout: candidato
 title: Jazmin Bonilla Garcia
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "poder ejecutivo", "poder legislativo", "mujer"]
+tags: ["poder judicial, poder ejecutivo", "poder legislativo", "mujer"]
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
 ---

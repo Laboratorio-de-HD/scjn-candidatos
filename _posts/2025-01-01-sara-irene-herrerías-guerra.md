@@ -3,7 +3,7 @@ layout: candidato
 title: Sara Irene Herrerías Guerra
 origin: poder ejecutivo
 interviewed: true
-tags: ["poder ejecutivo", "poder legislativo", "mujer"]
+tags: ["poder ejecutivo, poder legislativo", "mujer"]
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
 ---

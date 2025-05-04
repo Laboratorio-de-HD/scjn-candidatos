@@ -3,7 +3,7 @@ layout: candidato
 title: Natalia Tellez Torres Orozco
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "poder ejecutivo", "mujer"]
+tags: ["poder legislativo, poder ejecutivo", "mujer"]
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
 ---

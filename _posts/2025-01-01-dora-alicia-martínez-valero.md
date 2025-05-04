@@ -3,7 +3,7 @@ layout: candidato
 title: Dora Alicia Martínez Valero
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "poder legislativo", "mujer"]
+tags: ["poder judicial, poder legislativo", "mujer"]
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
 ---

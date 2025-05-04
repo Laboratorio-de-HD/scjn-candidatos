@@ -3,7 +3,7 @@ layout: candidato
 title: Federico Anaya Gallardo
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "poder ejecutivo", "hombre"]
+tags: ["poder legislativo, poder ejecutivo", "hombre"]
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
 ---

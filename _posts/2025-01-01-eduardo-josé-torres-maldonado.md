@@ -8,7 +8,6 @@ date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
 ---
 
-## Entrevista
 
 Entrevistadora: Muy buenas tardes. Bienvenido a esta etapa de selección del proceso 2024–2025. Le pediríamos primero su nombre completo, el cargo al que aspira y su lugar de procedencia.
 
