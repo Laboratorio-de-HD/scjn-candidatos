@@ -109,8 +109,6 @@ layout: default
       {% if post.origin %}
         <div class="post-author">Origen candidatura: {{ post.origin }}</div>
       {% endif %}
-      {# Debug: print tags array #}
-      <div style="font-size:0.7em;color:#c00;">TAGS: {{ post.tags | join: ', ' }}</div>
       {% assign poder_tags = post.tags | where_exp: 'tag', 'tag contains "poder"' | uniq %}
       {% if poder_tags.size > 0 %}
         <div class="card-tags">
