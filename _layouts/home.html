@@ -9,17 +9,59 @@ layout: default
   <p>{{ site.description }}</p>
 </div>
 
-<div class="candidates-grid" style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
+<h2 style="margin-top: 3rem;">Candidatas y candidatos</h2>
+
+<style>
+.candidates-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.candidate-card {
+  background: #fff;
+  border: 1px solid #d3d6db;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  padding: 1.5rem;
+  min-height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  transition: box-shadow 0.2s;
+}
+.candidate-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+}
+.candidate-card h2 {
+  margin-top: 0;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+.candidate-card a {
+  text-decoration: none;
+  color: #4a5fc1;
+  font-weight: 600;
+}
+.candidate-card .post-author, .candidate-card .post-date {
+  font-size: 0.95rem;
+  color: #888;
+  margin-bottom: 0.5rem;
+}
+</style>
+
+<div class="candidates-grid">
   {% for post in site.posts %}
-    <div class="candidate-card" style="background: #fff; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding: 1.5rem; width: 300px; min-height: 180px; display: flex; flex-direction: column; justify-content: space-between;">
-      <h2 style="margin-top: 0; font-size: 1.3rem;"><a href="{{ post.url }}" style="text-decoration: none; color: #222;">{{ post.title }}</a></h2>
-      {% if post.author %}
-        <div style="font-size: 0.95rem; color: #888;">{{ post.author }}</div>
+    {% if post.layout == "candidato" %}
+    <div class="candidate-card">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {% if post.origin %}
+        <div class="post-author">Origen candidatura;<br>{{ post.origin }}</div>
       {% endif %}
-      {% if post.date %}
-        <div style="font-size: 0.9rem; color: #aaa;">{{ post.date | date: "%d/%m/%Y" }}</div>
-      {% endif %}
-      <a href="{{ post.url }}" style="margin-top: 1rem; color: #007acc; font-weight: bold;">Ver entrevista completa →</a>
+      <a href="{{ post.url }}" style="margin-top: 1rem; color: #4a5fc1; font-weight: bold;">Ver entrevista completa →</a>
     </div>
+    {% endif %}
   {% endfor %}
 </div> 
