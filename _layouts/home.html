@@ -33,45 +33,73 @@ layout: default
   border: 1px solid #d3d6db;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-  padding: 1.5rem;
-  min-height: 180px;
+  padding: 1.2rem 1rem 1rem 1rem;
+  min-height: 160px;
+  max-width: 320px;
+  height: 180px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   transition: box-shadow 0.2s;
+  margin: 0 auto;
 }
 .candidate-card:hover {
   box-shadow: 0 4px 16px rgba(0,0,0,0.10);
 }
 .candidate-card h2 {
   margin-top: 0;
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   margin-bottom: 0.5rem;
   text-align: center;
+  font-weight: 600;
+  line-height: 1.2;
 }
 .candidate-card a {
   text-decoration: none;
   color: #4a5fc1;
   font-weight: 600;
 }
-.candidate-card .post-author, .candidate-card .post-date {
+.candidate-card .post-author {
   font-size: 0.95rem;
   color: #888;
   margin-bottom: 0.5rem;
+  text-align: center;
+}
+.candidate-e {
+  display: inline-block;
+  background: #ffe066;
+  color: #222;
+  font-weight: bold;
+  border-radius: 3px;
+  padding: 0 0.4em;
+  font-size: 0.85em;
+  margin-left: 0.3em;
+  vertical-align: middle;
 }
 </style>
 
 <div class="candidates-grid">
   {% for post in site.posts %}
-    {% if post.layout == "candidato" %}
+    {% if post.layout == "candidato" and post.interviewed %}
     <div class="candidate-card">
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <h2>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        {% if post.interviewed %}<span class="candidate-e">E</span>{% endif %}
+      </h2>
       {% if post.origin %}
         <div class="post-author">Origen candidatura;<br>{{ post.origin }}</div>
       {% endif %}
-      <a href="{{ post.url | relative_url }}" style="margin-top: 1rem; color: #4a5fc1; font-weight: bold;">Ver entrevista completa →</a>
+      <a href="{{ post.url | relative_url }}" style="margin-top: 0.7rem; color: #4a5fc1; font-weight: bold; font-size: 0.95em;">Ver entrevista completa →</a>
     </div>
     {% endif %}
   {% endfor %}
-</div> 
+</div>
+
+<script>
+// Hide the 'home..' link if present
+window.addEventListener('DOMContentLoaded', function() {
+  var homeLinks = Array.from(document.querySelectorAll('a')).filter(a => a.textContent.trim() === 'home..');
+  homeLinks.forEach(link => link.style.display = 'none');
+});
+</script> 
