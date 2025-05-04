@@ -78,6 +78,20 @@ layout: default
   margin-left: 0.3em;
   vertical-align: middle;
 }
+.candidate-card .card-tags {
+  margin-top: 0.3rem;
+  display: flex;
+  gap: 0.4em;
+  flex-wrap: wrap;
+}
+.candidate-card .card-tag {
+  background: #f0f0f0;
+  color: #444;
+  border-radius: 3px;
+  padding: 0.1em 0.5em;
+  font-size: 0.78em;
+  font-weight: 500;
+}
 </style>
 
 <div class="candidates-grid">
@@ -90,6 +104,14 @@ layout: default
       </h2>
       {% if post.origin %}
         <div class="post-author">Origen candidatura;<br>{{ post.origin }}</div>
+      {% endif %}
+      {% assign poder_tags = post.tags | where_exp: 'tag', 'tag contains "poder"' %}
+      {% if poder_tags.size > 0 %}
+        <div class="card-tags">
+          {% for tag in poder_tags limit:2 %}
+            <span class="card-tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
       {% endif %}
     </div>
     {% endif %}
