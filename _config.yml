@@ -7,7 +7,7 @@ description: > # description of the site (multiple lines allowed)
   
   El Poder Legislativo conformó una Comisión Evaluadora que entrevistó a la mayoría de los candidatos y candidatas entre el 14 y el 24 de enero del 2025. Dichas entrevistas se publicaron en Youtube y se transcriben a continuación. La letra E en color amarillo indica a las personas que hicieron las entrevistas. 
 keywords: "scjn, ministros, poder judicial"  
-permalink: /:title/
+permalink: /:year-:month-:day-:title/
 
 favicon: "./urna.png" # relative path to site's favicon
 
