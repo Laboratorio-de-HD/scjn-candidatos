@@ -103,7 +103,7 @@ layout: default
         {% if post.interviewed %}<span class="candidate-e">E</span>{% endif %}
       </h2>
       {% if post.origin %}
-        <div class="post-author">Origen candidatura;<br>{{ post.origin }}</div>
+        <div class="post-author">Origen candidatura: {{ post.origin }}</div>
       {% endif %}
       {% assign poder_tags = post.tags | where_exp: 'tag', 'tag contains "poder"' %}
       {% if poder_tags.size > 0 %}
