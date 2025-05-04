@@ -51,7 +51,7 @@ layout: default
   margin-top: 0;
   font-size: 1.05rem;
   margin-bottom: 0.5rem;
-  text-align: center;
+  text-align: left;
   font-weight: 600;
   line-height: 1.2;
 }
@@ -93,12 +93,4 @@ layout: default
     </div>
     {% endif %}
   {% endfor %}
-</div>
-
-<script>
-// Hide the 'home..' link if present
-window.addEventListener('DOMContentLoaded', function() {
-  var homeLinks = Array.from(document.querySelectorAll('a')).filter(a => a.textContent.trim() === 'home..');
-  homeLinks.forEach(link => link.style.display = 'none');
-});
-</script> 
+</div> 
