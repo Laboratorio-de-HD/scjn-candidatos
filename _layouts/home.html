@@ -99,7 +99,11 @@ layout: default
     {% if post.layout == "candidato" and post.interviewed %}
     <div class="candidate-card">
       <h2>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        {% if post.external_url %}
+          <a href="{{ post.external_url }}" target="_blank">{{ post.title }}</a>
+        {% else %}
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        {% endif %}
         {% if post.interviewed %}<span class="candidate-e">E</span>{% endif %}
       </h2>
       {% if post.origin %}
