@@ -1,0 +1,12 @@
+projects:
+  - title: Candidatas y candidatos a Ministros de la SCJN
+    description: Entrevistas realizadas por el Comité de Evaluación del Poder Legislativo Federal
+    image: ./urna.png
+    link: /candidatos
+    tags: ["SCJN", "Entrevistas", "Poder Judicial"]
+
+blog:
+  title: Entrevistas
+  description: Entrevistas completas a las y los candidatos a Ministros de la SCJN
+  link: /blog
+  tags: ["SCJN", "Entrevistas", "Poder Judicial"] 

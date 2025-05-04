@@ -1,0 +1,46 @@
+---
+layout: candidato
+title: Abraham Amiud Dávila Rodriguez
+origin: poder legislativo
+interviewed: true
+tags: ["poder legislativo", "hombre"]
+date: 2025-01-01
+author: Comite de Evaluación del Poder Legislativo Federal
+---
+
+Entrevistador: Muy buenas tardes. Bienvenido a esta etapa de entrevistas del Comité del Poder Legislativo para el proceso electoral 2024-2025. Para comenzar, ¿podría decirnos su nombre completo, el cargo al que aspira y de dónde proviene?
+
+Abraham Dávila: Soy Abraham Amiud Dávila Rodríguez, originario de Guadalajara, Jalisco, y aspiro al cargo de ministro de la Suprema Corte de Justicia de la Nación.
+
+Entrevistador: Gracias. Mi primera pregunta es: ¿por qué considera que es el aspirante adecuado para integrar la Suprema Corte? ¿Qué cambiaría? ¿Qué propone para mejorar el sistema judicial?
+
+Abraham Dávila: En primer lugar, considero fundamental la profesionalización. Cada secretario de juzgado, juez, magistrado y ministro debe estar en constante capacitación en derechos humanos y supremacía constitucional. También es indispensable garantizar la imparcialidad e independencia del juzgador, que debe resolver con apego a derecho, sin influencias externas. Además, es crucial atender la seguridad de los servidores públicos del Poder Judicial. Lamentablemente, viví de cerca el asesinato de un amigo juez de distrito en Colima, tras llevar casos penales delicados. La seguridad del funcionario judicial no debe descuidarse, especialmente en regiones de alto riesgo.
+
+Entrevistador: ¿Qué elementos propone para fortalecer esa seguridad e independencia, no solo frente a otros poderes, sino también ante intereses económicos?
+
+Abraham Dávila: Cada juzgador conoce la sensibilidad de los asuntos que trata y debe tener la posibilidad de solicitar medidas de protección o incluso la sustitución de juez. Esta figura ayudaría a evitar que se identifique al servidor público que resolverá casos delicados, lo que reduce el riesgo para su integridad.
+
+Entrevistador: ¿En qué consiste el principio constitucional del interés superior de niñas, niños y adolescentes? ¿Qué implicaciones tiene no aplicarlo en la impartición de justicia, especialmente en el ámbito familiar?
+
+Abraham Dávila: El juzgador tiene la obligación de juzgar con perspectiva de infancia y de género, asegurando la igualdad de condiciones para niñas, niños y adolescentes. Mi investigación doctoral se centra en la obstinación terapéutica en cuidados intensivos pediátricos, donde la autonomía recae en los padres, a veces en contra del mejor interés del menor. Un caso emblemático es el de transfusiones sanguíneas en hijos de testigos de Jehová. La Suprema Corte resolvió adecuadamente que el derecho a la vida del menor prevalece sobre la libertad religiosa de los padres. Esta ponderación es clave para garantizar los derechos humanos de la niñez.
+
+Entrevistador: En ese sentido, ¿cuál es su opinión sobre el derecho de niñas, niños y adolescentes a ser escuchados en los juicios que los involucran?
+
+Abraham Dávila: Es fundamental escucharlos, pero también valorar su madurez. No todos los niños deben ser escuchados de la misma forma. En casos de alienación parental, por ejemplo, el juzgador debe tener la capacidad de identificar lo mejor para el menor. En el caso de adolescentes, cuya madurez es mayor, pueden tomar decisiones como el uso de anticonceptivos sin autorización parental. La valoración debe ser individual, caso por caso, siempre en función de la edad, madurez y la trascendencia del asunto.
+
+Entrevistador: Según su semblanza, usted trabaja en la defensa de profesionales de la salud. En su experiencia, ¿cuáles son las principales causas de negligencias médicas que ponen en riesgo la vida de las personas?
+
+Abraham Dávila: Las causas más comunes son la falta de personal, de insumos y de medicamentos, todos ellos derechos humanos. También influye la falta de infraestructura y acceso a servicios de salud, especialmente en zonas marginadas. Esto genera graves daños en la salud, sobre todo en el ámbito institucional. La mejora de estas condiciones es una responsabilidad directa del Estado y debe estar respaldada constitucionalmente.
+
+Entrevistador: ¿Y en el ámbito privado?
+
+Abraham Dávila: En el sector privado predominan fallas por falta de pericia. Médicos que, sin la preparación adecuada, atienden casos complejos y cometen errores lamentables. Este tipo de situaciones ocurre en todos los estados del país, aunque no siempre se reportan públicamente.
+
+Entrevistador: Muchas gracias por sus respuestas. Si desea agregar algo, dispone de dos minutos.
+
+Abraham Dávila: Solo reiterar que el Poder Judicial requiere una capacitación constante de su personal, así como garantizar el acceso efectivo a la justicia. Una de las reformas que me parece un gran avance es la que establece un límite de seis meses para resolver ciertos casos. Esto es fundamental para lograr una justicia pronta y expedita, como lo merecen todas las personas en nuestro país.
+
+Entrevistador: Le agradecemos su tiempo y participación. Estaremos en contacto a través de correo electrónico para informarle sobre el seguimiento del proceso.
+
+Abraham Dávila: Muchas gracias.
+
