@@ -96,7 +96,7 @@ layout: default
 
 <div class="candidates-grid">
   {% for post in site.posts %}
-    {% if post.layout == "candidato" and post.interviewed %}
+    {% if post.layout == "candidato" %}
     <div class="candidate-card">
       <h2>
         {% if post.external_url %}
