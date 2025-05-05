@@ -4,8 +4,15 @@ layout: default
 
 <!-- CUSTOM HOME LAYOUT MARKER -->
 
+<nav class="main-nav" style="margin-bottom: 2rem;">
+  <a href="/" style="margin-right: 2rem; font-weight: bold; color: #4a5fc1; text-decoration: none;">home</a>
+  <a href="/boleta/" style="margin-right: 2rem; color: #4a5fc1; text-decoration: none;">boleta</a>
+  <a href="/blog/" style="margin-right: 2rem; color: #4a5fc1; text-decoration: none;">blog</a>
+  <a href="/inteligencia-artificial/" style="color: #4a5fc1; text-decoration: none;">inteligencia artificial</a>
+</nav>
+
 <div class="home-intro">
-  <h1>{{ site.title }}</h1>
+  <h1 style="white-space: nowrap;">Candidatas y candidatos a Ministros de la SCJN</h1>
   <p>{{ site.description }}</p>
 </div>
 
@@ -106,9 +113,9 @@ layout: default
         {% endif %}
         {% if post.interviewed %}<span class="candidate-e">E</span>{% endif %}
       </h2>
-      {% if post.origin %}
+      <!--{% if post.origin %}
         <div class="post-author">Origen candidatura: {{ post.origin }}</div>
-      {% endif %}
+      {% endif %} -->
       {% if post.tags.size > 0 %}
         <div class="card-tags">
           <span class="card-tag">{{ post.tags[0] }}</span>
