@@ -57,17 +57,18 @@ layout: default
 }
 .candidate-card h2 {
   margin-top: 0;
-  font-size: 1.05rem;
-  margin-bottom: 0.5rem;
+  font-size: 0.87rem;
+  font-weight: normal;
+  line-height: 1.22;
+  margin-bottom: 0.2rem;
   text-align: left;
-  font-weight: 500;
-  line-height: 1.2;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
   width: 100%;
   white-space: normal;
   overflow: visible;
   text-overflow: unset;
+  min-height: unset;
+  max-height: unset;
 }
 .candidate-card a {
   text-decoration: none;
@@ -113,6 +114,14 @@ layout: default
   /* overflow: hidden; */
   /* white-space: nowrap; */
 }
+.candidate-meta {
+  font-size:0.85em;
+  color:#888;
+  margin-bottom:0.1em;
+  margin-top:-0.1em;
+  text-align:center;
+  width:100%;
+}
 </style>
 
 {% assign sorted_posts = site.posts | where: "layout", "candidato" | sort: "number" %}
@@ -122,19 +131,22 @@ layout: default
     <div class="candidate-card">
       <h2>
         {% if post.external_url %}
-          <a href="{{ post.external_url }}" target="_blank">{{ post.title }}{% if post.number %} - {{ post.number }}{% endif %}</a>
+          <a href="{{ post.external_url }}" target="_blank">{{ post.title }}</a>
         {% else %}
-          <a href="{{ post.url | relative_url }}">{{ post.title }}{% if post.number %} - {{ post.number }}{% endif %}</a>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         {% endif %}
-        {% if post.interviewed %}<span class="candidate-e">E</span>{% endif %}
       </h2>
-      <!--{% if post.origin %}
-        <div class="post-author">Origen candidatura: {{ post.origin }}</div>
-      {% endif %} -->
+      <div class="candidate-meta">
+        {% if post.number %}{{ post.number }}{% endif %}
+        {% if post.interviewed %}<span class="candidate-e">E</span>{% endif %}
+      </div>
+      <div style="border-bottom: 1px solid #ddd; width: 100%; margin-bottom: 0.5rem;"></div>
       {% if post.tags.size > 0 %}
         <div class="card-tags">
           {% for tag in post.tags %}
-            <span class="card-tag">{{ tag }}</span>
+            {% unless tag == 'Mujer' or tag == 'Hombre' %}
+              <span class="card-tag">{{ tag }}</span>
+            {% endunless %}
           {% endfor %}
         </div>
       {% endif %}
