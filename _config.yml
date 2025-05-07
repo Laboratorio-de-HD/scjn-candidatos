@@ -6,7 +6,7 @@ baseurl: "/scjn-candidatos" # root address of the site
 description: > # description of the site (multiple lines allowed)
   El primero de junio del 2025, se eligirán por primera vez, a 9 Ministros y Ministras de la Suprema Corte de Justicia de la Nación. De los casi 500 candidatos que se registraron, solo 64 terminaron en la publicación que realizó el INE el 20 de febrero del 2025. 
   
-  El Poder Legislativo conformó una Comisión Evaluadora que entrevistó a la mayoría de los candidatos y candidatas entre el 14 y el 24 de enero del 2025. Dichas entrevistas se publicaron en Youtube y se transcriben a continuación. La letra E en color amarillo indica a las personas que hicieron las entrevistas. 
+  El Poder Legislativo conformó una Comisión Evaluadora que entrevistó a la mayoría de los candidatos y candidatas entre el 14 y el 24 de enero del 2025. Dichas entrevistas se publicaron en Youtube y se transcriben a continuación. El número indica en el que aparecerá en la boleta y la letra E, en color amarillo, señala a las personas que hicieron las entrevistas. 
 keywords: "scjn, ministros, poder judicial"  
 permalink: /:year-:month-:day-:title/
 
