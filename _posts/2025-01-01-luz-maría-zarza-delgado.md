@@ -1,11 +1,15 @@
 ---
 layout: candidato
 title: Luz María Zarza Delgado
-origin: poder legislativo
+origin: poder judicial
 interviewed: true
-tags: ["poder legislativo", "mujer"]
+tags:
+- Poder Legislativo
+- Mujer
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
+number: 33
+
 ---
 
 Buenas tardes abogada, bienvenida a la entrevista con el comité de evaluación del poder legislativo Federal

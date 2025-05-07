@@ -3,9 +3,11 @@ layout: candidato
 title: Abraham Amiud Dávila Rodriguez
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "hombre"]
+tags: ["Poder Legislativo", "Hombre"]
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
+number: 39
+
 ---
 
 Entrevistador: Muy buenas tardes. Bienvenido a esta etapa de entrevistas del Comité del Poder Legislativo para el proceso electoral 2024-2025. Para comenzar, ¿podría decirnos su nombre completo, el cargo al que aspira y de dónde proviene?

@@ -3,9 +3,14 @@ layout: candidato
 title: Cesar Enrique Olmedo Piña
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo, poder judicial", "hombre"]
+tags:
+- Poder Legislativo
+- Poder Judicial
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 58
+
 ---
 
 Buenas tardes. Muy bienvenido a la entrevista con el Comité de Evaluación del Poder Legislativo Federal. Le vamos a pedir que dé su nombre completo, el cargo al que aspira y su lugar de procedencia para iniciar con las preguntas.

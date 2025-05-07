@@ -1,11 +1,16 @@
 ---
 layout: candidato
 title: Lorena Josefina Perez Romo
-origin: poder ejecutivo
+origin: poder judicial
 interviewed: true
-tags: ["poder ejecutivo, poder legislativo", "mujer"]
+tags:
+- Poder Ejecutivo
+- Poder Legislativo
+- Mujer
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 24
+
 ---
 
 Hola, qué tal. Muy buenos días, bienvenida a esta etapa de entrevista que realiza el comité del poder legislativo para el proceso electoral 2024-2025. Requerimos que en primer momento nos de su nombre completo el cargo al que aspira y su lugar de procedencia, por favor

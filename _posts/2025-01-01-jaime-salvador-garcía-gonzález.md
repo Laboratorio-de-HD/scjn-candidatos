@@ -3,9 +3,14 @@ layout: candidato
 title: Jaime Salvador García González
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo, poder judicial", "hombre"]
+tags:
+- Poder Legislativo
+- Poder Judicial
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 45
+
 ---
 
 Abogado, muy buenos días. Sea bienvenido a la entrevista con el Comité de Evaluación del Poder Legislativo Federal. Le vamos a pedir, antes de iniciar, que nos dé su nombre completo, el cargo para el que se está postulando y su lugar de procedencia.

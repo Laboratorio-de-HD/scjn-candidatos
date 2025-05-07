@@ -3,9 +3,14 @@ layout: candidato
 title: Ulises Carlin De La Fuente
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial, poder legislativo", "hombre"]
+tags:
+- Poder Legislativo
+- Poder Judicial
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 37
+
 ---
 
 Entrevistador: Bienvenido al comité para su entrevista. En principio, ¿puede darnos su nombre y el cargo al que aspira?

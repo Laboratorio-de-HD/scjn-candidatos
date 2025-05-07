@@ -3,9 +3,13 @@ layout: candidato
 title: Francisco Luna Jaime
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "hombre"]
+tags:
+- Poder Legislativo
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 54
+
 ---
 
 Entrevistador: Buenas tardes, abogado. A nombre del Comité de Evaluación del Poder Legislativo, le damos la bienvenida a esta entrevista. Por favor, indíquenos su nombre completo, el cargo al que aspira y su lugar de nacimiento.

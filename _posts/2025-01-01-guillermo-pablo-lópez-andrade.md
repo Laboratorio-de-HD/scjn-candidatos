@@ -3,9 +3,13 @@ layout: candidato
 title: Guillermo Pablo López Andrade
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "hombre"]
+tags:
+- Poder Judicial
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 53
+
 ---
 
 Entrevistador: Buenas tardes, bienvenido a este proceso de entrevistas del Comité de Evaluación del Poder Legislativo. Por favor, proporciónenos su nombre completo, lugar de origen y el cargo al que aspira.

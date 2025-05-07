@@ -3,9 +3,13 @@ layout: candidato
 title: Edgar Corzo Sosa
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "hombre"]
+tags:
+- Poder Judicial
+- Hombre
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
+number: 38
+
 ---
 
 Buenas tardes, bienvenido sea usted a este proceso de entrevistas de este Comité de Evaluación del Poder Legislativo.  Le pediría en primera instancia, nos diga su nombre completo y cargo al que aspira, por favor.

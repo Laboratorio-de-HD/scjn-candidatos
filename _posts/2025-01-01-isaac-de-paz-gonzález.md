@@ -3,9 +3,13 @@ layout: candidato
 title: Isaac De Paz González
 origin: poder ejecutivo
 interviewed: true
-tags: ["poder ejecutivo", "hombre"]
+tags:
+- Poder Ejecutivo
+- Hombre
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
+number: 40
+
 ---
 
 Entrevistador: Buenas tardes. Sea usted bienvenido a esta entrevista del Comité de Evaluación del Poder Legislativo. Le pediría, por favor, que nos diga su nombre completo y el cargo al que aspira.

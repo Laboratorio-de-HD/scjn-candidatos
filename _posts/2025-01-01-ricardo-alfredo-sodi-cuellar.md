@@ -3,9 +3,13 @@ layout: candidato
 title: Ricardo Alfredo Sodi Cuellar
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "hombre"]
+tags:
+- Poder Judicial
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 61
+
 ---
 
 Buenas tardes. A nombre del comité de evaluación del Poder Legislativo Federal, darle la bienvenida a su entrevista en este proceso electoral extraordinario 2024-2025.

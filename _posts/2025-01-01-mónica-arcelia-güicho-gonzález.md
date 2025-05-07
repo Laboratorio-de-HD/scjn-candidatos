@@ -1,11 +1,15 @@
 ---
 layout: candidato
 title: Mónica Arcelia Güicho González
-origin: poder ejecutivo
+origin: poder judicial
 interviewed: true
-tags: ["poder ejecutivo", "mujer"]
+tags:
+- Poder Ejecutivo
+- Mujer
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 15
+
 ---
 
 Buenos días. Bienvenida sea usted a esta entrevista del Comité de Evaluación del Poder Legislativo. En primera instancia, le pediríamos su nombre completo, cargo al que aspira y de dónde es usted originaria.

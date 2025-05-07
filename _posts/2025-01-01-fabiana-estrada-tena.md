@@ -3,9 +3,13 @@ layout: candidato
 title: Fabiana Estrada Tena
 origin: poder ejecutivo
 interviewed: true
-tags: ["poder ejecutivo", "mujer"]
+tags:
+- Poder Ejecutivo
+- Mujer
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
+number: 9
+
 ---
 
 Entrevistador: Hola, muy buenas noches. Bienvenida a esta etapa de entrevista del Comité del Poder Legislativo para el Proceso Electoral 2024-2025. Para comenzar, ¿podrías decirnos tu nombre completo y el cargo al que aspiras?

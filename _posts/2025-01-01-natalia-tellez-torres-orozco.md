@@ -3,9 +3,14 @@ layout: candidato
 title: Natalia Tellez Torres Orozco
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo, poder ejecutivo", "mujer"]
+tags:
+- Poder Ejecutivo
+- Poder Legislativo
+- Mujer
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 31
+
 ---
 
 Buenas tardes. Bienvenida a la entrevista con el comité de evaluación del Poder Legislativo Federal. Le vamos a pedir que de su nombre completo, el cargo al que aspira y su lugar de procedencia para iniciar con las preguntas.

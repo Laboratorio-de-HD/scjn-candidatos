@@ -3,9 +3,13 @@ layout: candidato
 title: Estela Fuentes Jiménez
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "mujer"]
+tags:
+- Poder Legislativo
+- Mujer
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
+number: 10
+
 ---
 
 Entrevistador: Buenos días. Bienvenida a esta entrevista del Comité de Evaluación del Poder Legislativo Federal. Por favor, díganos su nombre, el cargo al que aspira y de dónde es originaria.

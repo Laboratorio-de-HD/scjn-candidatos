@@ -3,14 +3,18 @@ layout: candidato
 title: Magda Zulema Mosri Gutiérrez
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "mujer"]
+tags:
+- Poder Judicial
+- Mujer
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 21
+
 ---
 
 Buenas tardes, bienvenida. ¿Puede darnos su nombre, el cargo al que aspira y de dónde es originaria?
 
-Mi nombre es Zulema Magda Zulema Mosri Gutiérrez, aspiro al cargo de Ministra de la Suprema Corte de Justicia de la Nación  y soy originaria de Ciudad Obregón, Sonora, México.
+Mi nombre es Magda Zulema Mosri Gutiérrez, aspiro al cargo de Ministra de la Suprema Corte de Justicia de la Nación  y soy originaria de Ciudad Obregón, Sonora, México.
 
 Muy bien, me corresponde a mí hacerle la primera pregunta. Inicio con uno de los temas fundamentales que propiciaron esta reforma  fue el descontento de la ciudadanía al no sentir que obtenía justicia, pero de una manera muy subrayada  el sentir que la Suprema Corte de Justicia…  era algo ajeno totalmente a ellos. Entonces, en ese sentido de ser usted electa como Ministra de la Suprema Corte de Justicia de la Nación,  ¿qué considera que pudiera implementar para ir acortando esta distancia de la que se queja la sociedad mexicana?
 

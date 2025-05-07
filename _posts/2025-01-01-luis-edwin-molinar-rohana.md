@@ -1,11 +1,15 @@
 ---
 layout: candidato
 title: Luis Edwin Molinar Rohana
-origin: poder ejecutivo
+origin: poder judicial
 interviewed: true
-tags: ["poder ejecutivo", "hombre"]
+tags:
+- Poder Ejecutivo
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 56
+
 ---
 
 Buenas tardes, sea usted bienvenido a este proceso de entrevistas de este Comité de Evaluación del Poder Legislativo.  Lo primero sería pedirle que nos dé su nombre completo, cargo al que aspira y de dónde es originario.

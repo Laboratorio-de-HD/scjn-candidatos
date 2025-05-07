@@ -3,9 +3,13 @@ layout: candidato
 title: Raymundo Espinoza Hernández
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "hombre"]
+tags:
+- Poder Legislativo
+- Hombre
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
+number: 42
+
 ---
 
 Muy buenos días, a nombre del Comité de Evaluación del Poder Legislativo, le damos la bienvenida a esta entrevista.  Pedirle de favor nos proporcione su nombre, cargo al que aspira y lugar de nacimiento.

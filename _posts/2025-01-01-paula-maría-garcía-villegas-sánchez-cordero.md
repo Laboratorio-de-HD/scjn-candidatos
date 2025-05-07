@@ -3,9 +3,13 @@ layout: candidato
 title: Paula María García Villegas Sánchez Cordero
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "mujer"]
+tags:
+- Poder Judicial
+- Mujer
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
+number: 12
+
 ---
 
 Buenas tardes. Bienvenida sea usted a este proceso de entrevistas de este Comité de Evaluación del Poder Legislativo. En primera instancia, le pediríamos que nos dé su nombre completo, cargo al que aspira y de dónde es originaria.

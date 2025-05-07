@@ -3,9 +3,13 @@ layout: candidato
 title: Aristides Rodrigo Guerrero García
 origin: poder ejecutivo
 interviewed: true
-tags: ["poder ejecutivo", "hombre"]
+tags:
+- Poder Ejecutivo
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 48
+
 ---
 
 Buenos días, bienvenido. En principio, nos puede proporcionar su nombre, el cargo al que aspira, y de dónde es originario.

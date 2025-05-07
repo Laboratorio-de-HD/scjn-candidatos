@@ -3,9 +3,13 @@ layout: candidato
 title: Rosa Elena González Tirado
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "mujer"]
+tags:
+- Poder Judicial
+- Mujer
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 14
+
 ---
 
 Buenos días. A nombre del Comité de Evaluación del Poder Legislativo Federal, darle la bienvenida a esta entrevista.  Y bueno, para efectos de registro, pedirle atentamente, nos dé su nombre, el cargo al que aspira y su lugar de nacimiento de favor.

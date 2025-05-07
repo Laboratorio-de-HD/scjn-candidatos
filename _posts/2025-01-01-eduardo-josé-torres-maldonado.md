@@ -3,11 +3,14 @@ layout: candidato
 title: Eduardo José Torres Maldonado
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "hombre"]
+tags:
+- Poder Legislativo
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
----
+number: 63
 
+---
 
 Entrevistadora: Muy buenas tardes. Bienvenido a esta etapa de selección del proceso 2024–2025. Le pediríamos primero su nombre completo, el cargo al que aspira y su lugar de procedencia.
 

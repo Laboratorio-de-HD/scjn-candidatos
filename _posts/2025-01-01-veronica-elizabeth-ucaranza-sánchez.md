@@ -3,9 +3,13 @@ layout: candidato
 title: Veronica Elizabeth Ucaranza Sánchez
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "mujer"]
+tags:
+- Poder Legislativo
+- Mujer
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 32
+
 ---
 
 Muy buenas noches. Bienvenida a la entrevista con el comité de evaluación del Poder Legislativo Federal.

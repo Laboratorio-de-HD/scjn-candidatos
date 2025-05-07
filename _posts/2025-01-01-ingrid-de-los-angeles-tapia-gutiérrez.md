@@ -3,9 +3,13 @@ layout: candidato
 title: Ingrid De Los Angeles Tapia Gutiérrez
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "mujer"]
+tags:
+- Poder Legislativo
+- Mujer
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 30
+
 ---
 
 Entrevistador: Buenas tardes, bienvenida. Para comenzar, ¿puede decirnos su nombre, el cargo al que aspira y de dónde es originaria?

@@ -1,11 +1,15 @@
 ---
 layout: candidato
 title: Ma Consuelo Rosillo Garfias
-origin: poder legislativo
+origin: poder judicial
 interviewed: true
-tags: ["poder legislativo", "mujer"]
+tags:
+- Poder Legislativo
+- Mujer
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 28
+
 ---
 
 Buenas tardes, abogada. Bienvenida a la entrevista con el comité de evaluación del poder legislativo Federal. Le vamos a pedir que nos dé su nombre completo, el cargo al que está aspirando y su lugar de procedencia para poder iniciar con las preguntas.

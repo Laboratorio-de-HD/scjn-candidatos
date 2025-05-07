@@ -3,14 +3,18 @@ layout: candidato
 title: Irma Guadalupe García Mendoza
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "mujer"]
+tags:
+- Poder Legislativo
+- Hombre
 date: 2025-01-01
 author: Comite de Evaluación del Poder Legislativo Federal
+number: 11
+
 ---
 
 Hola, ¿qué tal? Muy buenas noches. Bienvenida a esta etapa de entrevistas del Comité del  Poder Legislativo para el Proceso Electoral 2024-2025. Lo primero que vamos a requerir  es que nos dé su nombre completo, el cargo al que aspira y el lugar de donde viene.
 
-Sí, mi nombre es Sirma Guadalupe García Mendoza, a sus órdenes. Aspiro a ser ministra  de la Suprema Corte de Justicia de la Nación y actualmente soy consejera de la Judicatura  de la Ciudad de México y con licencia de magistrada penal.
+Sí, mi nombre es Irma Guadalupe García Mendoza, a sus órdenes. Aspiro a ser ministra  de la Suprema Corte de Justicia de la Nación y actualmente soy consejera de la Judicatura  de la Ciudad de México y con licencia de magistrada penal.
 
 Muy bien. Bien, vamos con la primera pregunta en razón también de su experiencia. ¿Cuál  considera usted que serían los elementos claves para detonar un sistema de justicia  como se quiere ahora con esta cercanía?  A la ciudadanía, al gobernado y con estos principios fundamentales de los derechos hacia  ellos.
 

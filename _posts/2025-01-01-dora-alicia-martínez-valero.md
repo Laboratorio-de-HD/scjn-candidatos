@@ -3,14 +3,19 @@ layout: candidato
 title: Dora Alicia Martínez Valero
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial, poder legislativo", "mujer"]
+tags:
+- Poder Legislativo
+- Poder Judicial
+- Mujer
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 19
+
 ---
 
 Buenas tardes, bienvenida. En principio, ¿cuál es su nombre, el cargo al que aspira y de dónde es originaria?
 
-Buenas tardes, muchas gracias por recibirme. Soy Doralicio Martínez Valero, aspiro al cargo de ministra de la Suprema Corte de Justicia de la Nación y soy originaria de Saltillo, Coahuila.
+Buenas tardes, muchas gracias por recibirme. Soy Dora Alicia Martínez Valero, aspiro al cargo de ministra de la Suprema Corte de Justicia de la Nación y soy originaria de Saltillo, Coahuila.
 
 Muchas gracias. Yo iniciaré haciéndole la siguiente pregunta. En el caso de ser electa ministra de la Suprema Corte de Justicia de la Nación, y una de las causas por las que se ha generado esta gran reforma que hoy nos tiene aquí, es que la justicia, la ciudadanía la siente y en realidad está lejana, no?. ¿Usted qué implementaría, qué programa podría estructurar, qué idea tiene al respecto, de tal forma que pudiera existir ese vínculo? Con la ciudadanía en general, en la Suprema Corte de Justicia de la Nación y todos los órganos que la componen. ¿Cómo se imagina usted que pudiera ser?
 

@@ -3,9 +3,13 @@ layout: candidato
 title: Marisela Morales Ibañez
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "mujer"]
+tags:
+- Poder Judicial
+- Mujer
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 20
+
 ---
 
 Buenas tardes, bienvenida. En principio puede proporcionarnos su nombre, el cargo al que aspira y de dónde es originaria.

@@ -3,9 +3,13 @@ layout: candidato
 title: Ricardo Garduño Pasten
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "hombre"]
+tags:
+- Poder Judicial
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 47
+
 ---
 
 Bienvenido a su entrevista. De inicio, nos proporciona por favor su nombre, cargo al que aspira y lugar de nacimiento.

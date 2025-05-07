@@ -3,9 +3,13 @@ layout: candidato
 title: Sergio Javier Molina Martínez
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "hombre"]
+tags:
+- Poder Judicial
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 55
+
 ---
 
 Hola, ¿qué tal? Muy buenas tardes. Bienvenido a esta etapa del proceso de entrevista en  este Comité del Poder Legislativo Federal para el Proceso Electoral 2024-2025. Como  primer punto, requerimos que nos dé su nombre completo, el cargo al que aspira y su lugar  de procedencia, por favor.

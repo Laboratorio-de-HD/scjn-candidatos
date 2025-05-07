@@ -3,9 +3,13 @@ layout: candidato
 title: Mauricio Flores Castro
 origin: poder legislativo
 interviewed: true
-tags: ["poder legislativo", "hombre"]
+tags:
+- Poder Legislativo
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 44
+
 ---
 
 Bienvenido. Buenas noches. ¿Puede proporcionarnos su nombre, el cargo, al que aspira y de dónde es originario?

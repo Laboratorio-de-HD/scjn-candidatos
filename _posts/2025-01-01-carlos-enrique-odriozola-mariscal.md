@@ -3,9 +3,13 @@ layout: candidato
 title: Carlos Enrique Odriozola Mariscal
 origin: poder judicial
 interviewed: true
-tags: ["poder judicial", "hombre"]
+tags:
+- Poder Judicial
+- Hombre
 date: 2025-01-01
 author: Comité de Evaluación del Poder Legislativo Federal
+number: 57
+
 ---
 
 Buenas tardes, bienvenido a esta entrevista. De inicio, ¿puede proporcionarnos su nombre, el cargo al que aspira y de dónde es originario?

@@ -1,7 +1,8 @@
 title: Candidatas y candidatos a Ministros de la SCJN
 author: Observatorio de Medios Digitales
 meta_author: Alejandro Martin del Campo
-url: "https://Laboratorio-de-HD.github.io/scjn-candidatos/" # root address of the site
+url: "https://Laboratorio-de-HD.github.io/"
+baseurl: "/scjn-candidatos" # root address of the site
 description: > # description of the site (multiple lines allowed)
   El primero de junio del 2025, se eligirán por primera vez, a 9 Ministros y Ministras de la Suprema Corte de Justicia de la Nación. De los casi 500 candidatos que se registraron, solo 64 terminaron en la publicación que realizó el INE el 20 de febrero del 2025. 
   
