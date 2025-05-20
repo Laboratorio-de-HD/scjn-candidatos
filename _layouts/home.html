@@ -122,6 +122,14 @@ layout: default
   text-align:center;
   width:100%;
 }
+
+a.disable {
+  pointer-events: none;
+  color: #bbb !important;
+  opacity: 0.7;
+  text-decoration: none;
+  cursor: not-allowed;
+}
 </style>
 
 {% assign sorted_posts = site.posts | where: "layout", "candidato" | sort: "number" %}
