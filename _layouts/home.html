@@ -131,9 +131,15 @@ layout: default
     <div class="candidate-card">
       <h2>
         {% if post.external_url %}
-          <a href="{{ post.external_url }}" target="_blank">{{ post.title }}</a>
+          <a href="{{ post.external_url }}" target="_blank"
+            {% unless post.interviewed %}class="disable"{% endunless %}>
+            {{ post.title }}
+          </a>
         {% else %}
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <a href="{{ post.url | relative_url }}"
+            {% unless post.interviewed %}class="disable"{% endunless %}>
+            {{ post.title }}
+          </a>
         {% endif %}
       </h2>
       <div class="candidate-meta">
